@@ -1,5 +1,7 @@
 # CyberKey Suite Enterprise
 
+![CyberKey Suite Enterprise](logo.svg)
+
 منصة متكاملة لتشفير وفك تشفير البيانات، مع أدوات تحليل الأمان، تقييم المفاتيح، اختبار SAC (Avalanche), وتحليل إنتروبيا البيانات. المشروع مصمم كواجهة رسومية Python باستخدام tkinter/customtkinter ويوفر مجموعة من الخوارزميات الكلاسيكية والحديثة.
 
 ## وصف المشروع
